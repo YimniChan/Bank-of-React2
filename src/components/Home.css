@@ -1,0 +1,28 @@
+img  {
+  width: 100px;
+  height: 100px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+  }
+
+.CreditResult, .DebitResult{
+  border: 1px solid black;
+  width:50%;
+  margin:auto;
+}
+ul.CreditResult,
+ul.DebitResult
+{
+    list-style-type: none;
+    margin-left: 10px;
+    padding:0;
+}
